@@ -89,9 +89,9 @@ endif()
 
 
 set(xeus_REQUIRED_VERSION 6.0.0)
-set(xwidgets_REQUIRED_VERSION 0.30.0)
-set(xcanvas_REQUIRED_VERSION 0.7.0)
-set(xproperty_REQUIRED_VERSION 0.12.1)
+set(xwidgets_REQUIRED_VERSION 0.31.1)
+set(xcanvas_REQUIRED_VERSION 0.8.0)
+set(xproperty_REQUIRED_VERSION 0.13.1)
 set(Lua_REQUIRED_VERSION 5.4.0)
 
 find_package(xeus ${xeus_REQUIRED_VERSION} REQUIRED)
